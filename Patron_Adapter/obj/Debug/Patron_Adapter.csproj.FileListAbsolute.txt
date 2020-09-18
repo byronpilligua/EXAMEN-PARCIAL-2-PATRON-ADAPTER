@@ -1,0 +1,7 @@
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\bin\Debug\Patron_Adapter.exe.config
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\bin\Debug\Patron_Adapter.exe
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\bin\Debug\Patron_Adapter.pdb
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\obj\Debug\Patron_Adapter.csprojAssemblyReference.cache
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\obj\Debug\Patron_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\obj\Debug\Patron_Adapter.exe
+C:\Users\jcatangu\Documents\Angular\Patron_Adapter\Patron_Adapter\obj\Debug\Patron_Adapter.pdb
